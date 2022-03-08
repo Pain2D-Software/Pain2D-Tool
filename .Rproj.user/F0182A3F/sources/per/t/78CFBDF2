@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1646747371336.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "936685391",
+    "id" : "78CFBDF2",
+    "lastKnownWriteTime" : 1646747401,
+    "last_content_update" : 1646747401446,
+    "path" : "~/Projekte/Pain2D-Tool/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "20,58",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,31 @@
+{
+  "cultural_date_format": "%d-%m-%Y",
+  "languages": ["en", "de"],
+  "translation": [
+      {"en": "Template pain drawing", "de": "Template Schmerzzeichnung"},
+      {"en": "Submit", "de": "Ausführen"},
+      {"en": "Select template pain drawing", "de": "Template Schmerzzeichnung wählen"},
+      {"en": "Pain points extraction", "de": "Extraktion der Schmerzpunkte"},
+      {"en": "Select pain drawings PDF", "de": "PDF-Schmerzzeichnungen wählen"},
+      {"en": "Download", "de": "Herunterladen"},
+      {"en": "Pain profile", "de": "Schmerzprofil"},
+      {"en": "Load pain profile", "de": "Schmerzprofil laden"},
+      {"en": "Select csv-File", "de": "Wähle eine csv-Datei"},
+      {"en": "Create pain profile", "de": "Schmerzprofil generieren"},
+      {"en": "Select JSON-files", "de": "Wähle JSON-Dateien"},
+      {"en": "Choose color", "de": "Farbe wählen"},
+      {"en": "Confirm", "de": "Bestätigen"},
+      {"en": "Download data", "de": "Daten herunterladen"},
+      {"en": "Download PNG", "de": "PNG herunterladen"},
+      {"en": "AUC", "de": "AUC"},
+      {"en": "Type 1'st disease name", "de": "1'er Krankheitsname"},
+      {"en": "Upload files from 1'st disease", "de": "Laden Sie Dateien von der 1. Krankheit hoch"},
+      {"en": "Type 2'nd disease name", "de": "2'er Krankheitsname"},
+      {"en": "Upload files from 2'nd disease", "de": "Laden Sie Dateien von der 2. Krankheit hoch"},
+      {"en": "Download CSV", "de": "CSV herunterladen"},
+      {"en": "K Disease Classifier", "de": "K Krankheitenklassifikator"},
+      {"en": "Choose in each file chooser pain drawings from different disseases.", "de": "Wählen Sie Schmerzzeichnungen aus verschiedenen Krankheiten aus."},
+      {"en": "Add disease", "de": "Krankheit hinzufügen"},
+      {"en": "Delete disease", "de": "Krankheit löschen"}
+    ]
+}
